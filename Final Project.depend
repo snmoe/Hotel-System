@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1735487448 source:c:\users\lenovo\desktop\labs term 3\final project\main.c
+	"system.h"
+
+1735485377 c:\users\lenovo\desktop\labs term 3\final project\system.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	<windows.h>
+
+1735471292 source:c:\users\lenovo\desktop\labs term 3\final project\check-in.c
+	"system.h"
+
+1735464022 source:c:\users\lenovo\desktop\labs term 3\final project\load and save.c
+	"system.h"
+
+1735486575 source:c:\users\lenovo\desktop\labs term 3\final project\reserve rooms.c
+	"system.h"
+
+1735485918 source:c:\users\lenovo\desktop\labs term 3\final project\search.c
+	"system.h"
+
+1735485490 source:c:\users\lenovo\desktop\labs term 3\final project\system.c
+	"system.h"
+
+1735485078 source:c:\users\lenovo\desktop\labs term 3\final project\validations.c
+	"system.h"
+
+1735467624 source:c:\users\moesn\onedrive\desktop\new folder\load and save.c
+	"system.h"
+
+1735488978 c:\users\moesn\onedrive\desktop\new folder\system.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	<windows.h>
+
+1735491050 source:c:\users\moesn\onedrive\desktop\new folder\main.c
+	"system.h"
+
+1735489520 source:c:\users\moesn\onedrive\desktop\new folder\search.c
+	"system.h"
+
+1735489092 source:c:\users\moesn\onedrive\desktop\new folder\system.c
+	"system.h"
+
